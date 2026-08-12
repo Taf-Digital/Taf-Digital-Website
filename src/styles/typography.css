@@ -1,0 +1,27 @@
+.display {
+    font-size: clamp(3rem,7vw,6rem);
+    font-weight: 800;
+    line-height: 1;
+}
+
+.heading {
+    font-size: clamp(2rem,4vw,3rem);
+    font-weight: 700;
+}
+
+.subheading {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.body-large {
+    font-size: 1.15rem;
+}
+
+.body {
+    font-size: 1rem;
+}
+
+.small {
+    font-size: .9rem;
+}

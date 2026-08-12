@@ -1,18 +1,23 @@
+import Navbar from "./components/layout/navbar";
+
 function App() {
   return (
-    <main className="section">
-      <div className="container">
-        <div className="glass blue-glow rounded-3xl p-10">
-          <h1 className="text-5xl font-bold mb-4">
-            Taf Digital
-          </h1>
+    <>
+      <Navbar />
 
-          <p className="text-xl text-gray-300">
-            Where Innovation Meets Security
-          </p>
-        </div>
-      </div>
-    </main>
+      <main
+        className="
+          min-h-screen
+          flex
+          items-center
+          justify-center
+        "
+      >
+        <h1 className="display">
+          New Feature Next...
+        </h1>
+      </main>
+    </>
   );
 }
 
