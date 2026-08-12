@@ -1,0 +1,25 @@
+:root{
+
+    --primary:#00C8FF;
+
+    --secondary:#FF1B4A;
+
+    --dark:#050816;
+
+    --dark-2:#10182B;
+
+    --glass:rgba(255,255,255,.05);
+
+    --border:rgba(255,255,255,.12);
+
+    --text:#F5F7FA;
+
+    --muted:#B8C2D6;
+
+    --success:#32D583;
+
+    --shadow-blue:0 0 30px rgba(0,200,255,.35);
+
+    --shadow-red:0 0 30px rgba(255,27,74,.35);
+
+}
