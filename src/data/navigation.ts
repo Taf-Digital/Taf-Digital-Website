@@ -22,8 +22,8 @@ export const navigation: NavItem[] = [
   },
   {
     id: 4,
-    title: "Portfolio",
-    href: "#portfolio",
+    title: "Meet the Team",
+    href: "#team",
   },
   {
     id: 5,
