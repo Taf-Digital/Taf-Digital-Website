@@ -1,5 +1,5 @@
 import Logo from "./Logo";
-import NavLinks from "./navLinks";
+import NavLinks from "./NavLinks";
 import MobileMenu from "./MobileMenu";
 
 function Navbar() {
